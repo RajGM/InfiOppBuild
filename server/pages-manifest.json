@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html",
+  "/api/add": "pages/api/add.js",
+  "/[username]": "pages/[username].html",
+  "/api/calendar": "pages/api/calendar.js",
+  "/api/edit": "pages/api/edit.js",
+  "/api/firebaseAdmin": "pages/api/firebaseAdmin.js",
+  "/api/hello": "pages/api/hello.js",
+  "/api/serverSideAdmin": "pages/api/serverSideAdmin.js",
+  "/enter": "pages/enter.html",
+  "/": "pages/index.html",
+  "/test": "pages/test.html",
+  "/_document": "pages/_document.js"
+}
